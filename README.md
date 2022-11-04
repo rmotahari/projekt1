@@ -1,3 +1,5 @@
+
+
 Titel:      Dokumentattion von Git/Github Repository
 Date:       03-11-2022
 Author:     Renato Palavecino
@@ -7,6 +9,19 @@ Keywords:   Git, Github, Linux
 # Git Repository loka erstellen
 
 ## Projekt Umgebung vorbereiten
+
+##### SSH Schluessel Key erstellen
+
+	ssh-keygen
+
+##### Kopieren PublicKey in GitHub
+		
+		cat .ssh/id_rsa.pub
+
+####### Ueberprufen die Verbindung mit GitHub
+
+		ssh -T git@github.com
+		git remote add origin git@github.com:ingeniebrio77/Arcolinux_git.git
 
 #### Erstellen Sie ein Vezeichnis mit dem Name Projekt1
 
@@ -50,3 +65,5 @@ Code-Blocke
     git add -A
     git commit -m "Erstes Commit"
     git status
+###### Lokal Repository "Push" zum GitHub
+    git push -u origin master
