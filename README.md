@@ -66,9 +66,22 @@ Code-Blocke
     git add -A
     git commit -m "Erstes Commit"
     git status
+
 ###### Lokal Repository "Push" zum GitHub
     git push -u origin master
+
 ###### für upload 
         git push
+
 ######  für download in lokal 
 	git pull
+
+######  nach any Änderung 
+    git status
+    git add -A
+    git commit -m "Erstes Commit"
+    git status
+    git push
+
+#####    
+    
