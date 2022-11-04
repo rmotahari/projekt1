@@ -6,7 +6,7 @@ Author:     Reza Motahari
 Keywords:   Git, Github, Linux
 
 ## Projekt link
-https://github.com/rmotahari/projekt1
+https://github.com/rmotahari/projekt1 "Projekt1"
 
 # Git Repository lokal erstellen
 
