@@ -68,5 +68,7 @@ Code-Blocke
     git status
 ###### Lokal Repository "Push" zum GitHub
     git push -u origin master
-    ############### nochmal push 
-    git push
+###### für upload 
+        git push
+######  für download in lokal 
+	git pull
