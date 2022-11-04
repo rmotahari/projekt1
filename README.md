@@ -23,7 +23,7 @@ Keywords:   Git, Github, Linux
 		
 		cat .ssh/id_rsa.pub
 
-####### Ueberprufen die Verbindung mit GitHub
+##### Ueberprufen die Verbindung mit GitHub
 
 		ssh -T git@github.com
 		git remote add origin git@github.com:ingeniebrio77/Arcolinux_git.git
