@@ -8,6 +8,9 @@ Keywords:   Git, Github, Linux
 ## Projekt link
 [Projekt link](https://github.com/rmotahari/projekt1 "Projekt1")
 
+## Projekt Bild
+[Projekt Bild](https://imgs.search.brave.com/7V-R31tSdFWF7d9bdnAySGsgu-CM73_f-RgenBNuoeI/rs:fit:1200:900:1/g:ce/aHR0cHM6Ly9uZXdz/LWNkbi5zb2Z0cGVk/aWEuY29tL2ltYWdl/cy9uZXdzMi9hcmNo/LWxpbnV4LTIwMTYt/MTEtMDEtbm93LWF2/YWlsYWJsZS1mb3It/ZG93bmxvYWQtcG93/ZXJlZC1ieS1saW51/eC1rZXJuZWwtNC04/LTYtNTA5ODg0LTIu/cG5n"Archlinux")
+
 # Git Repository lokal erstellen
 
 ## Projekt Umgebung vorbereiten
