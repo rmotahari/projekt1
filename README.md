@@ -1,12 +1,12 @@
 
 
 Titel:      Dokumentattion von Git/Github Repository
-Date:       03-11-2022
-Author:     Renato Palavecino
+Date:       04-11-2022
+Author:     Reza Motahari
 Keywords:   Git, Github, Linux
 
 
-# Git Repository loka erstellen
+# Git Repository lokal erstellen
 
 ## Projekt Umgebung vorbereiten
 
@@ -22,6 +22,7 @@ Keywords:   Git, Github, Linux
 
 		ssh -T git@github.com
 		git remote add origin git@github.com:ingeniebrio77/Arcolinux_git.git
+		
 
 #### Erstellen Sie ein Vezeichnis mit dem Name Projekt1
 
@@ -67,3 +68,5 @@ Code-Blocke
     git status
 ###### Lokal Repository "Push" zum GitHub
     git push -u origin master
+    ############### nochmal push 
+    git push
